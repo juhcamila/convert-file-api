@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "health",
+        "password": "root",
+        "database": "health_gifs",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": 3308
+    },
+    "test": {
+        "username": "health",
+        "password": "root",
+        "database": "health_gifs",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": 3308
+    },
+    "production": {
+        "username": "health",
+        "password": "root",
+        "database": "health_gifs",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": 3308
+    }
+}
